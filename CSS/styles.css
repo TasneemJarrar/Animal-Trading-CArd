@@ -8,7 +8,7 @@ body{
   font-weight: 500;
   font-family: "Fredoka", sans-serif;
 }
-.center-bage{
+.center-page{
   display: flex;
   justify-content: center;
   align-items: center;
@@ -53,12 +53,12 @@ body{
 .cat-info{
   padding-top: 15px;
 }
-.cat-faetures{
+.cat-features{
   display: flex;
   flex-wrap: wrap;
   gap: 10px;
 }
-.cat-faetures li{
+.cat-features li{
   width: calc((100% - 10px) / 2);  
 }
 .container i{
